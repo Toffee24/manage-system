@@ -1,0 +1,132 @@
+[
+        {
+            "borrowOrderCount": 18,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 0,
+            "registerCount": 1,
+            "day": "2018-02-01",
+            "acceptUserCount": 3
+        },
+        {
+            "borrowOrderCount": 14,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 0,
+            "registerCount": 1,
+            "day": "2018-02-02",
+            "acceptUserCount": 4
+        },
+        {
+            "borrowOrderCount": 46,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 0,
+            "registerCount": 0,
+            "day": "2018-02-03",
+            "acceptUserCount": 9
+        },
+        {
+            "borrowOrderCount": 4,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 0,
+            "registerCount": 0,
+            "day": "2018-02-04",
+            "acceptUserCount": 0
+        },
+        {
+            "borrowOrderCount": 69,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 0,
+            "registerCount": 2,
+            "day": "2018-02-05",
+            "acceptUserCount": 12
+        },
+        {
+            "borrowOrderCount": 80,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 2,
+            "registerCount": 6,
+            "day": "2018-02-06",
+            "acceptUserCount": 12
+        },
+        {
+            "borrowOrderCount": 55,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 1,
+            "registerCount": 1,
+            "day": "2018-02-07",
+            "acceptUserCount": 16
+        },
+        {
+            "borrowOrderCount": 76,
+            "newVerifiedCount": 1,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 3,
+            "registerCount": 3,
+            "day": "2018-02-08",
+            "acceptUserCount": 14
+        },
+        {
+            "borrowOrderCount": 74,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 2,
+            "registerCount": 2,
+            "day": "2018-02-09",
+            "acceptUserCount": 15
+        },
+        {
+            "borrowOrderCount": 1,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 0,
+            "registerCount": 0,
+            "day": "2018-02-24",
+            "acceptUserCount": 0
+        },
+        {
+            "borrowOrderCount": 3,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 1,
+            "registerCount": 1,
+            "day": "2018-02-26",
+            "acceptUserCount": 4
+        },
+        {
+            "borrowOrderCount": 0,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 1,
+            "registerCount": 1,
+            "day": "2018-02-27",
+            "acceptUserCount": 2
+        },
+        {
+            "borrowOrderCount": 0,
+            "newVerifiedCount": 0,
+            "startCount": 0,
+            "oldVerifiedCount": 0,
+            "verifyCount": 0,
+            "registerCount": 15,
+            "day": "2018-02-28",
+            "acceptUserCount": 1
+        }
+    ]

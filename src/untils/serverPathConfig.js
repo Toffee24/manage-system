@@ -1,0 +1,3 @@
+const TEST_SERVERPATH = 'http://192.168.199.223:9099/'
+
+export default TEST_SERVERPATH
